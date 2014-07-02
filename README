@@ -10,7 +10,7 @@
   What does it do?
 
     The Metaflask project's aim is to ensure that the Flask ecosystem
-    does nots suffer from abondoned extensions or problems in Flask
+    does not suffer from abandoned extensions or problems in Flask
     itself.  As a purely virtual organization without legal power it
     does not do anything fancy other than acting as a central space
     where discussions about Flask can be held in a structured way.
@@ -37,7 +37,7 @@
       * be a Flask extension maintainer
       * be a future Flask extension maintainer
 
-    If you are accepted as member or not is arbitrary and the decision
+    Whether you are accepted as member or not is arbitrary and the decision
     is made in an even more arbitrary process by the members of
     Metaflask.  Rejections can be challenged by flamewars on the closed
     issue.
