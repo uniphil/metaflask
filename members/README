@@ -1,0 +1,35 @@
+Metaflask Members
+
+  This folder contains the list of all members of the Metaflask
+  project.  Here is how the maintenance of this list works:
+
+  -- The Format
+
+     Each member is in a separate file.  The format is `<number>_<id>.txt`
+     where number is increasing with each member added.  Numbers are
+     never reused.  The id is the github username.
+
+     If a member becomes inactive the extension is changed to
+     `.inactive.txt`.
+
+  -- Pull Requests
+
+     If you want to join send a pull request.  Do not add a number,
+     whoever merges it adds it.
+
+  -- Giving Access to Github
+
+     Currently the access to the github repo is manually managed.  Someone
+     will have to write a bot for this.
+
+  -- Who is allowed to give access?
+
+     Any member can add more members.  The only rule for adding members is
+     that you are only allowed to add members that you fully trust.  Do
+     not add people just because you like them :)
+
+  -- Who is allowed to remove members?
+
+     Only member 0001.  And yes, changing your own number is not going to
+     do the trick.  Later there will be some sort of voting system but
+     totally not interested in this right now.
