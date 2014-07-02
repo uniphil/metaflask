@@ -1,0 +1,53 @@
+
+                          M E T A F L A S K
+
+  What is Metaflask?
+
+    Metaflask is the informal "Flask Software Foundation".  It's the
+    closest equivalent to stewardship that Flask has and currently
+    starting up.
+
+  What does it do?
+
+    The Metaflask project's aim is to ensure that the Flask ecosystem
+    does nots suffer from abondoned extensions or problems in Flask
+    itself.  As a purely virtual organization without legal power it
+    does not do anything fancy other than acting as a central space
+    where discussions about Flask can be held in a structured way.
+
+  How is it structured?
+
+    The Metaflask project is a meritocracy with each project maintained
+    through the Metaflask project being a dictatorship.  As such the
+    Metaflask project does not really have a clear form of governance.
+    It is whatever the members of the project decide it is.
+
+  Who are the members?
+
+    For the current members have a look at the MEMBERS file in the
+    same repository.
+
+  How do I become a member?
+
+    The way to become a member is to open an issue on this repository
+    with the request to join it.  Currently you have to fulfil one of
+    the following criterea:
+
+      * be a Flask developer
+      * be a Flask extension maintainer
+      * be a future Flask extension maintained
+
+    If you are accepted as member or not is arbitrary and the decision
+    is made in an even more arbitrary process by the members of
+    Metaflask.  Rejections can be challenged by flamewars on the closed
+    issue.
+
+  What privileges do members have?
+
+    Members do not have any implied privileges as such.
+
+  Why would I want to become a member?
+
+    Lower the bus factor of Flask and the ecosystem and of course to
+    gain fame.
+
