@@ -1,0 +1,42 @@
+PROJECT OVERVIEW
+
+  So how does this work?  Any Metaflask member is free to manage his or
+  her projects here or correct information about other projects.  They
+  can also add other people's projects for consistency.
+
+  For instance flask extensions can be documented here as well.
+
+  The projects/ folder here acts as a central register of projects that
+  we know exists.  Most of the format is freeform with the exception of
+  the following:
+
+    README/README.md/README.rst
+      this needs to exist in the project to explain it a little bit.
+
+    META
+      A file with mime information with the most important details about
+      the project.  The following keys are currently known (and most keys
+      can appear multiple times for multiple values):
+
+        Name: the name of the project
+        Website: the URL to the website of the project
+        Github: the location of the repository on github
+        Bitbucket: the location of the repository on bitbucket
+        PyPI: the name of the package on PyPI if it exists
+        License: the short license code.
+        Status: the status of the project.  "active" / "inactive" /
+                "unknown"
+
+    PROJECT_LEAD
+      A file with mime information about the author.  Same format as for
+      the members on the toplevel.  If the lead of the project is indeed
+      a member of the Metaflask team then this should be a symlink
+      instead.
+
+    stewardship
+      If there are Metaflask members that either own the project or want
+      to act as stewards for the project they should symlink themselves
+      into it.  All projects listed on Metaflask need at least one
+      steward.
+
+      For responsibilities see the toplevel README.

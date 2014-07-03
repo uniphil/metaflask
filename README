@@ -44,10 +44,31 @@
 
   What privileges do members have?
 
-    Members do not have any implied privileges as such.
+    Members do not have any implied privileges as such.  Primarily they
+    get write access to this repository.
 
   Why would I want to become a member?
 
     Lower the bus factor of Flask and the ecosystem and of course to
-    gain fame.
+    gain fame :)
 
+  What is a Stewardship?
+
+    Previously we had the problem that the extension registry did not
+    scale well.  The idea of stewardship is that for each project that
+    is listed in the projects/ folder there is at least one Metaflask
+    member that acts as a steward for that project so that the extension
+    index and similar things stays active.
+
+  What are a Steward's responsibilities?
+
+    A Steward is primarily responsible for keeping the record of the
+    project in this repository active.  If they are the maintainers or
+    developers of that project they are responsible for the project as
+    such, if they just act as the index maintainer they are required to
+    ensure that the project status is kept updated regularly.
+
+    Primarily if a project becomes insecure, broken or unmaintained the
+    Steward is responsible for flagging it in the repository and
+    communicating this through the issue tracker so that a replacement
+    can be found or the project can be marked inactive to warn users.
