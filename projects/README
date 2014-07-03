@@ -36,7 +36,9 @@ PROJECT OVERVIEW
 
         Approved: yes/no
         Approval-Date: when it was approved (time format should be
-                       HTTP date format)
+                       HTTP date format or "time immemorial" if it
+                       has been long in the past and nobody quite
+                       remembers since when any more)
 
       The payload of the file can be used for various notes.
 

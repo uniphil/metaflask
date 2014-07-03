@@ -1,0 +1,5 @@
+Name: Phil Howell
+Github: immunda
+E-Mail: phil@fictivekin.com
+
+One of the maintainers of the Flask-SQLAlchemy project.

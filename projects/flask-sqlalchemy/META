@@ -1,0 +1,8 @@
+Name: Flask-SQLAlchemy
+Website: https://github.com/mitsuhiko/flask-sqlalchemy
+Github: mitsuhiko/flask-sqlalchemy
+Bugtracker: https://github.com/mitsuhiko/flask-sqlalchemy/issues
+Documentation: https://pythonhosted.org/Flask-SQLAlchemy/
+PyPI: Flask-SQLAlchemy
+License: BSD
+Status: active
