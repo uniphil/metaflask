@@ -72,3 +72,10 @@
     Steward is responsible for flagging it in the repository and
     communicating this through the issue tracker so that a replacement
     can be found or the project can be marked inactive to warn users.
+
+  Why is this a repo?
+
+    ... instead of a wiki for instance.  The main reason is that it should
+    be possible to work with this as if it was a regular repository so
+    go through pull requests and other methods.  It also should eventually
+    act as the source for certain parts of the Flask website.

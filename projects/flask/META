@@ -1,6 +1,8 @@
 Name: The Flask Project
 Website: http://flask.pocoo.org/
 Github: mitsuhiko/flask
+Bugtracker: https://github.com/mitsuhiko/flask/issues
+Documentation: http://flask.pocoo.org/docs/
 PyPI: Flask
 License: BSD
 Status: active

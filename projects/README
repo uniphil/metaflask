@@ -26,6 +26,19 @@ PROJECT OVERVIEW
         License: the short license code.
         Status: the status of the project.  "active" / "inactive" /
                 "unknown"
+        Bugtracker: the URL to the bug tracker
+        Mailinglist: the URL to the mailinglist information page
+        Documentation: the URL to the documentation
+
+    EXTENSION_STATUS
+      If a project is a Flask extension this file defines the state of
+      the extension similar to the META file.  The following keys exist:
+
+        Approved: yes/no
+        Approval-Date: when it was approved (time format should be
+                       HTTP date format)
+
+      The payload of the file can be used for various notes.
 
     PROJECT_LEAD
       A file with mime information about the author.  Same format as for
@@ -40,3 +53,8 @@ PROJECT OVERVIEW
       steward.
 
       For responsibilities see the toplevel README.
+
+    resources
+      Free-form resources relevant to the project itself should be placed
+      there.  For instance information about code style and various notes
+      go there.
