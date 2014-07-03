@@ -14,7 +14,9 @@ Metaflask Members
 
      The content of the file is a mime header (Key + colon + value)
      similarly to email to HTTP.  Then an optional body with some
-     text in plain text format separated by a newline.
+     text in plain text format separated by a newline.  Each member
+     needs to have a "Sponsor" key that defines who sponsored that
+     member.
 
   -- Pull Requests
 
