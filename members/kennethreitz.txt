@@ -1,0 +1,8 @@
+Name: Kenneth Reitz
+Twitter: @kennethreitz
+Github: kennethreitz
+E-Mail: me@kennethreitz.org
+
+Kenneth Reitz is a maintainer of the Flask framework and some of the
+libraries that Flask is based upon. He triages incoming issues
+and pull requests.
