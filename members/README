@@ -12,6 +12,10 @@ Metaflask Members
      If a member becomes inactive the extension is changed to
      `.inactive.txt`.
 
+     The content of the file is a mime header (Key + colon + value)
+     similarly to email to HTTP.  Then an optional body with some
+     text in plain text format separated by a newline.
+
   -- Pull Requests
 
      If you want to join send a pull request.  Do not add a number,
