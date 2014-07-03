@@ -7,3 +7,6 @@ Status: active
 
 The Flask project includes Flask itself as well as the documentation.  It
 does not include the website however or any other parts of the ecosystem.
+
+Currently Flask is mainly centrally managed by Armin Ronacher but this
+should open up a bit more over time.
