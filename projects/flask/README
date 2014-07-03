@@ -3,7 +3,6 @@ Website: http://flask.pocoo.org/
 Github: mitsuhiko/flask
 PyPI: Flask
 License: BSD
-Primary Maintainer: Armin Ronacher (@mitsuhiko)
 
 The Flask project includes Flask itself as well as the documentation.  It
 does not include the website however or any other parts of the ecosystem.
