@@ -60,3 +60,9 @@ PROJECT OVERVIEW
       Free-form resources relevant to the project itself should be placed
       there.  For instance information about code style and various notes
       go there.
+
+    peps
+      PEPs are "Project Enhancement Proposals" and they work like Python
+      peps roughly.  A bit more free form but essentially they should be
+      enumerated like other things and be used for proposing larger
+      changes to the project, anything that needs discussion really.
